@@ -1,3 +1,2 @@
-# Study case of exploratory data analysis about bicycle taxis in NYC
-
-Study case of exploratory data analysis about bicycle taxis in NYC.
+# Exploratory Data analysis About Bicycle Taxis in NYC
+Analysing data of rental of bikes as taxis in New York City.
